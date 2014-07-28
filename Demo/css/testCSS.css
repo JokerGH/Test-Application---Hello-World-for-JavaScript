@@ -1,0 +1,10 @@
+.outdiv{
+	width: 200px;
+	height: 200px;
+	background-color: lightgreen;
+}
+.innerdiv{
+	width: auto;
+	height: auto;
+	text-align: center;
+}
